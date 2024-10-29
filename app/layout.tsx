@@ -1,5 +1,15 @@
+import type { Metadata } from "next";
+import { Inter } from "next/font/google";
+
 import "./globals.css";
 import { ThemeProvider } from "./provider";
+
+const inter = Inter({ subsets: ["latin"] });
+
+export const metadata: Metadata = {
+  title: "Amars Portfolio",
+  description: "Modern & Minimal JS Mastery Portfolio",
+};
 
 export default function RootLayout({
   children,
@@ -7,9 +17,9 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <body
-        className={`antialiased`}
+        className={`${inter.className} antialiased`}
       >
          <ThemeProvider
             attribute="class"
