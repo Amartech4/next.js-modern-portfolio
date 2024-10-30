@@ -22,12 +22,13 @@ export default function Footer() {
                 Ready to take <span className='text-purple'>your</span> digital presence to the next level?
             </h1>
             <p className='text-white-200 md:mt-10 my-5 text-center'>Reach out to me today and let&apos;s discuss how I can help you achieve your goals.</p>
-            <a href="mailto:amar.mehdi140@gmail.com"></a>
+            <a href="mailto:amar.mehdi140@gmail.com">
               <MagicButton
                title="Let's Get in touch"
                icon={<FaLocationArrow />}
                position='right'
               />
+              </a>
         </div>
 
         <div className='flex mt-16 md:flex-row flex-col justify-between items-center'>
