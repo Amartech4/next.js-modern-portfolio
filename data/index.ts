@@ -152,9 +152,9 @@ export const navItems = [
     },
     {
       id: 3,
-      name: "HOSTINGER",
-      img: "/host.svg",
-      nameImg: "/hostName.svg",
+      name: "Vercel",
+      img: "/vercel.app_logo.png",
+      nameImg: "vercel.name.app_logo.png",
     },
     {
       id: 4,
