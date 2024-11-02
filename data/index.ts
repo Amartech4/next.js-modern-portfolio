@@ -1,3 +1,5 @@
+import { link } from "fs";
+
 export const navItems = [
     { name: "About", link: "#about" },
     { name: "Projects", link: "#projects" },
@@ -180,15 +182,15 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "Mobile App Dev - JSM Tech",
-      desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+      title: "Education & Certification",
+      desc: "Graduated from IT-HighSchool with high grades, specializing in Web Development. Certified in full-stack development, covering both frontend and backend skills.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
     },
     {
       id: 3,
-      title: "Freelance App Dev Project",
-      desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+      title: "Freelance Web Development Project",
+      desc: "Led the development of a web application for a client, managing the project from initial concept to final deployment.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp3.svg",
     },
@@ -205,13 +207,11 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      link: "https://github.com/Amartech4",
     },
     {
       id: 2,
-      img: "/twit.svg",
-    },
-    {
-      id: 3,
       img: "/link.svg",
+      link: "https://www.linkedin.com/in/amar-mehdi-464833259/",
     },
   ];
