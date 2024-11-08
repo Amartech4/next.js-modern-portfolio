@@ -33,7 +33,7 @@ export default function Hero() {
             Hi, I&apos;m Amar, a Frontend Developer based in Sweden
           </p>
 
-          <Link href="/about">
+          <Link href="#about">
              <MagicButton 
              title="Show my work"
              icon={<FaLocationArrow />}
