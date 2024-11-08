@@ -1,3 +1,11 @@
+## About
+
+This is my portfolio modern project built in next.js where i show my experience, work, feedbacks etc. 
+
+note that the projects you'll see in this next.js project website aren't mine as im using them as assets to make this portfolio look nice but my own projects are coming soon and ill be adding them there so that it will look authentic.   
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
