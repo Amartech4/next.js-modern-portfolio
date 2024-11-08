@@ -1,8 +1,8 @@
 ## About
 
-This is my portfolio modern project built in next.js where i show my experience, work, feedbacks etc. 
+This is my portfolio modern project built in next.js where i show my experience, work, feedbacks etc. You'll see my work, my email, my experience, my feedbacks and links to my github and linkedIn
 
-note that the projects you'll see in this next.js project website aren't mine as im using them as assets to make this portfolio look nice but my own projects are coming soon and ill be adding them there so that it will look authentic.   
+note that the projects you'll see in this next.js project website aren't mine as im using them as assets to make this portfolio look nice but my own projects are coming soon and ill be adding them there so that it will look authentic. same goes for feedbacks where im only using an asset one to also make it nice looking and feedbacks will be coming soon and ill add to this portfolio.
 
 
 
